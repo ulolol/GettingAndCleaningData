@@ -7,7 +7,7 @@ Repo for the Project of the Coursera Course "Getting and Cleaning Data" by John 
 
 > The information regarding the libraries used as well as the use of each variable is given in the CodeBook.
 
-> The required data will be dynamically downloaded and unzipped in your current working directory, but a copy of the same is available in the repo for review.
+> The required data will be dynamically downloaded and unzipped in your current working directory, as I cannot upload the whole dataset here.
 
 
 
